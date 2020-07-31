@@ -37,6 +37,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
+trasform:transition(-50%,-50%);
     color: black;
 }
 .mySlides{
