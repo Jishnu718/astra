@@ -34,6 +34,8 @@ body{
 }
 .text{
     text-align: center;
+top: 50%;
+left: 50%;
     position: absolute;
 text-align:centre;
 trasform:transition(-50%,-50%);
