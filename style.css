@@ -34,7 +34,7 @@ body{
 }
 .text{
     text-align: center;
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
     color: white;
